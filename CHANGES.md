@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.10
+
+New Features:
+
+* [#1679](https://github.com/ckeditor/ckeditor-dev/issues/1679): Introduced the Split Button plugin. Also added optin to set initial style for button when creating it, and create button without icon.
+
 ## CKEditor 4.9
 
 New Features:
