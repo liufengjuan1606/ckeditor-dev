@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEDITOR 4.9.1
+
+New Features:
+
+* [#1712](https://github.com/ckeditor/ckeditor-dev/issues/1712): [extraPlugins](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_config.html#cfg-extraPlugins) and [removePlugins](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_config.html#cfg-removePlugins) configuration options allows for whitespaces.
+
 ## CKEditor 4.9
 
 New Features:
